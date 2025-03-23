@@ -109,7 +109,6 @@ function App() {
                             <div className={item.isComplated ? "line-through text-gray-500 ml-10" : "text-yellow-400 ml-10"}>
                                 {item.todo}
                             </div>
-                            <div className="flex gap-2 ml-48">
                                 <button 
                                     className='font-bold bg-yellow-400 text-yellow-950 rounded-md px-4 hover:bg-yellow-600 text-sm py-1' 
                                     onClick={() => handleEdit(item.id)}>
