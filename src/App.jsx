@@ -64,7 +64,7 @@ function App() {
             <Navbar />
             <div className="md:mx-auto md:container mx-3 my-5 rounded-xl p-5 bg-slate-700 min-h-[80vh] md:w-1/2">
                 <div className='addTodo'>
-                    <h1 className='font-bold text-yellow-400 ml-1 font-rubikVinyl text-2xl'>Add your ToDo</h1>
+                    <h1 className='font-bold text-yellow-400 ml-1 font-rubikVinyl text-2xl'>Make Your Todos</h1>
                     <div className="flex gap-4">
                         <input 
                             type='text' 
