@@ -8,7 +8,7 @@ export const Navbar = () => {
       </div>
       <ul className='flex gap-7 mx-9 font-rubikVinyl text-xl'>
         <li className='cursor-pointer hover:font-bold'>home</li>
-        <li className='cursor-pointer hover:font-bold'>your tasks</li>
+        <li className='cursor-pointer hover:font-bold'> tasks</li>
       </ul>
          </nav>
   )
